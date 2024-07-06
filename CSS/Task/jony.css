@@ -1,0 +1,85 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+}
+nav{
+    margin-top: 20px;
+    margin-right: 20px;
+    padding-right: 40px;
+    text-shadow: 5px 5px 5px white;
+    padding-bottom: 100px;
+    float: right;
+}
+nav a{
+    color: white;
+    float: left;
+    display: block;
+    text-align: center;
+    cursor: all-scroll;
+    padding: 5px 10px;
+    text-decoration: none;
+    text-shadow: 5px 5px 5px gray;
+}
+nav a:hover{
+    background-color: rgb(154, 126, 126);
+    color: white;
+    box-shadow: 5px 5px 5px rgb(177, 150, 159);
+    font-family: cursive;
+}
+#top img{
+    height: 80px;
+    width: 80px;
+    margin-left: 56px;
+    border-radius: 45px;
+    margin-top: 5px;
+}
+#border{
+    color: rgb(99, 99, 99);
+    border: solid;
+    height: 82px;
+    width: 82px;
+    margin-left: 52px;
+    border-radius: 45px;
+    margin-top: -88px;
+}
+#border h2{
+    color: white;
+    margin-left: 95px;
+    margin-top: 25px;
+}
+#wel h3{
+    color: white;
+    margin-top: 150px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    margin-left: 30px;
+}
+#wel2 h1{
+    color: white;
+    margin-left: 30px;
+    font-size: 70px;
+}
+#wel2 h1 strong{
+    color: red;
+}
+#wel3 h4{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+#top2 img{
+    float: right;
+    margin-top: -420px;
+    margin-right: 20px;
+}
+#border2{
+    border-width: 15px;
+    color: rgb(99, 99, 99);
+    background-color: rgb(88, 83, 83);
+    border: solid;
+    height: 350px;
+    width: 580px;
+    margin-left: 950px;
+    margin-top: -270px;
+}

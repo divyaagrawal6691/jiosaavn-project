@@ -1,0 +1,106 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+    background-image: linear-gradient(to left, rgb(65, 65, 230), rgb(183, 81, 172));
+}
+#coding h2{
+    color: white;
+    margin-left: 80px;
+    font-size: 40px;
+}
+nav{
+    margin-top: -69px;
+    margin-right: 20px;
+    margin-left: 530px;
+    font-size: 25px;
+    text-shadow: 5px 5px 5px white;
+}
+nav a{
+    color: white;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 5px 10px;
+    text-decoration: none;
+    text-shadow: 5px 5px 5px gray;
+}
+nav a:hover{
+    background-color: rgb(172, 63, 167);
+    color: white;
+    box-shadow: 5px 5px 5px rgb(203, 34, 90);
+    font-family: cursive;
+}
+#sign h2{
+    color: white;
+    float: right;
+    margin-right: 200px;
+    margin-top: 7px;
+}
+#signup h7{
+    float: right;
+    color: white;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-right: -180px;
+}
+
+#upbor{
+    color: white;
+    border: solid;
+    margin-right: -205px;
+    height: 50px;
+    width: 110px;
+    border-radius: 10px;
+    float: right;
+    margin-top: -7px;
+}
+#top h3{
+    font-size: 30px;
+    margin-top: 250px;
+    margin-left: 60px;
+    font-size: 50px;
+    color: white;
+}
+#top2 h4{
+    color: white;
+    margin-left: 60px;
+    font-size: 25px;
+}
+#join h5{
+    color: white;
+    font-size: 32px;
+    margin-left: 75px;
+}
+#border{
+    border-width: 15px;
+    color: white;
+    border: solid;
+    height: 80px;
+    width: 180px;
+    border-radius: 20px;
+    background-color: rgb(65, 65, 230);
+    margin-left: 47px;
+    margin-top: -115px;
+}
+#join2 h1{
+    color: white;
+    font-size: 32px;
+    margin-left: 290px;
+    margin-top: -62px;
+}
+#png{
+    color: white;
+    border: solid;
+    height: 80px;
+    width: 250px;
+    border-radius: 20px;
+    background-color: rgb(183, 81, 172);
+    margin-left: 240px;
+    margin-top: -82px;
+}
+#mobile{
+    float: right;
+    margin-top: -410px;
+    margin-right: 120px;
+}

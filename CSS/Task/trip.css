@@ -1,0 +1,39 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url(world22.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 750px;
+}
+
+#top{
+    background-color: white;
+    height: 150px;
+    opacity: 0.4;
+    width: 1520px;
+    margin-top: -70px;
+}
+
+#top h3{
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+h1{
+    font-size: 35px;
+    color: white;
+    margin-top: 140px;
+    font-family: cursive;
+}
+
+h2 strong{
+    color: green;
+    font-size: 40px;
+    margin-top: 110px;
+    font-family: cursive;
+}
+h2{
+    color: white;
+    font-size: 40px;
+    font-family: cursive;
+}

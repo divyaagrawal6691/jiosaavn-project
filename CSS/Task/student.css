@@ -1,0 +1,28 @@
+body{
+    background-color: blue;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to left, rgb(26, 26, 170), rgb(183, 81, 172));
+}
+#top h1{
+    color: rgb(254, 80, 80);
+    text-align: center;
+}
+#hiii img{
+    margin-top: 230px;
+    margin-left: 50px;
+    float: inline-start;
+}
+#bye img{
+    float: inline-end;
+    margin-right: 80px;
+    margin-top: 230px;
+}
+#form h1{
+    height: 60px;
+    margin-right: 130px;
+    margin-left: 70px;
+    background-color: rgb(121, 21, 121);
+    text-align: center;
+    color: white;
+}

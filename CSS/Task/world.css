@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(12, 200, 200);
+    height: 100%;
+    width: 100%;
+}
+#world h2{
+    margin-left: 30px;
+    color: white;
+    font-size: 30px;
+}
+#more h1{
+    color: white;
+    font-size: 20px;
+    float: right;
+    margin-right: 50px;
+    margin-top: -20px;
+}
+#border{
+    color: white;
+    border: solid;
+    height: 30px;
+    margin-top: -25px;
+    margin-right: -70px;
+    float: right;
+    width: 90px;
+}
+
+#contact h1{
+    color: white;
+    font-size: 20px;
+    float: right;
+    margin-right: 10px;
+    margin-top: -20px;
+}
+#border22{
+    color: white;
+    border: solid;
+    height: 30px;
+    margin-top: -25px;
+    margin-right: -110px;
+    float: right;
+    width: 140px;
+}
+#home h1{
+    color: white;
+    font-size: 20px;
+    float:inline-end;
+    margin-right: 19px;
+    margin-top: -20px;
+}
+#border222{
+    color: white;
+    border: solid;
+    height: 30px;
+    margin-top: -25px;
+    margin-right: -70px;
+    float: right;
+    width: 140px;
+}
+#top h2{
+    color: rgb(55, 52, 52);
+    margin-top: -230px;
+    font-size: 35px;
+    text-align: center;
+    text-shadow: 5px 5px aquamarine;
+    font-family: cursive;
+}
+#top h3{
+    margin-top: 140px;
+    font-size: 25px;
+    color: black;
+}
+#border2{
+    color: grey;
+    background-color: rgb(241, 233, 233);
+    height: 3px;
+    margin-top: -25px;
+    width: 100%;
+}
+#border2 img{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#border2 h2{
+    font-family: cursive;
+    text-align: left;
+    margin-left: 230px;
+    margin-top: -130px;
+    font-size: 30px;
+    color: rgb(30, 27, 27);
+    text-shadow: 5px 5px aquamarine;
+}
+#border2 h3{
+    font-family: cursive;
+    text-align: center;
+    margin-top: -75px;
+    font-size: 30px;
+    color: rgb(30, 27, 27);
+    text-shadow: 5px 5px aquamarine;
+}
+#border2 h4{
+    font-family: cursive;
+    text-align: right;
+    margin-right: 180px;
+    margin-top: -70px;
+    border-right: 30px;
+    font-size: 30px;
+    color: rgb(30, 27, 27);
+    text-shadow: 5px 5px aquamarine;
+}
+#box{
+    color: white;
+    background-color: gray;
+    border: solid;
+    height: 25px;
+    margin-top: -20px;
+    margin-right: 70px;
+    float: right;
+    width: 150px;
+}

@@ -1,0 +1,57 @@
+@keyframes traf1{
+    0%{background-color: red;}
+    50%{background-color: black;}
+    100%{background-color: black;}
+}
+@keyframes traf2{
+    0%{background-color: black;}
+    50%{background-color: yellow;}
+    100%{background-color: black;}
+}
+@keyframes traf3{
+    0%{background-color: black;}
+    50%{background-color: black;}
+    100%{background-color: green;}
+}
+
+#parent{
+    height: 360px;
+    width: 100px;
+    background-color: black;
+    border-radius: 20px;
+    margin-top: 100px;
+    padding: 10px;
+}
+#traf1{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    border: solid 1px gray;
+    animation-name: traf1;
+    background-color: black;
+    animation-delay: 1s;
+    animation-duration: 30s;
+}
+
+#traf2{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    animation-name: traf2;
+    border: solid 1px gray;
+    background-color: black;
+    animation-delay: 10s;
+    animation-duration: 10s;
+    margin-top: 20px;
+}
+#traf3{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    animation-name: traf3;
+    border: solid 1px gray;
+    background-color: black;
+    animation-delay: 12s;
+    animation-duration: 10s;
+    margin-top: 20px;
+}

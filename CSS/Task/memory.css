@@ -1,0 +1,51 @@
+.parent{
+    height: 100%;
+    width: 100%;
+}
+.parent h2{
+    margin-left: 90px;
+}
+#img{
+    background-image: url(flower.jpg);
+    height: 350px;
+    background-size: 1600px 350px;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+#img h2{
+    text-align: center;
+    color: beige;
+    margin-right: 70px;
+}
+#img h1{
+    color: white;
+    text-align: center;
+}
+#img img{
+    border: solid;
+    border-color: white;
+    
+}
+nav{
+    background-color: rgb(175, 47, 107);
+    overflow: hidden;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+nav a{
+    color: white;
+    font-size: 18px;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-style: italic;
+}
+nav a:hover{
+    background-color: palevioletred;
+    color: white;
+}
+.parent p{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: justify;
+}

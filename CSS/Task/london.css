@@ -1,0 +1,247 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+#top{
+    height: 700px;
+    width: 1530px;
+    background-image: url(london.jpg);
+    background-repeat: no-repeat;
+    background-size: 1530px 700px;
+    margin-top: -10px;
+}
+nav{
+    overflow: hidden;
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+    margin-left: 340px;
+    margin-right: 340px;
+}
+nav a{
+    text-decoration: none;
+    color: black; 
+    font-family: cursive;
+    padding: 10px 20px; 
+}
+nav a:hover{
+    background-color: rgb(196, 14, 14);
+    color: red;
+    border-radius: 10px;
+}
+#top h2{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    margin-top: 70px;
+    text-shadow: 2px 2px 4px black;
+}
+#top h3{
+    text-align: center;
+    color: rgb(231, 168, 11);
+    font-size: 60px;
+    font-family: cursive;
+    margin-top: 65px;
+    text-shadow: 2px 2px 4px black;
+}
+#top h4{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family: cursive;
+    margin-top: -45px;
+    text-shadow: 2px 2px 4px black;
+}
+#top h5{
+    text-align: center;
+    font-size: 50px;
+    margin-top: -30px;
+    color: white;
+    font-family: cursive;
+    text-shadow: 2px 2px 4px black;
+    margin-bottom: 10px;
+}
+#top input{
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    background-color: red;
+    border-radius: 20px;
+    color: white;
+}
+#tinku{
+    height: 400px;
+    width: 250px;
+    background-image: url(barc.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    display: inline-block;
+    position: relative;
+    margin-right: 10px;
+    top:-50px;
+}
+#tinku h2{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin: 70px;
+    font-family: cursive;
+    text-shadow: 2px 2px 4px black;
+}
+#tinku h3{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-top: -60px;
+    font-family: cursive;
+    text-shadow: 2px 2px 4px black;
+}
+#tinku h4{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin-top: -15px;
+    font-family: cursive;
+    text-shadow: 2px 2px 4px black;
+}
+#tinku input{
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    margin-top: -10px;
+    background-color: red;
+    border-radius: 20px;
+    color: white;
+}
+#tinku2{
+    height: 400px;
+    width: 250px;
+    background-image: url(goa.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    position: relative;
+    top: -50px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#tinku2 h2{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin: 70px;
+    font-family: cursive;
+    text-shadow: 2px 2px 4px black;
+}
+#tinku2 h3{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-top: -60px;
+    font-family: cursive;
+    text-shadow: 2px 2px 4px black;
+}
+#tinku2 h4{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin-top: -15px;
+    font-family: cursive;
+    text-shadow: 2px 2px 4px black;
+}
+#tinku2 input{
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    background-color: red;
+    margin-top: -10px;
+    border-radius: 20px;
+    color: white;
+}
+#tinku3{
+    height: 400px;
+    margin-left: 10px;
+    width: 250px;
+    position: relative;
+    top: -50px;
+    background-image: url(paris.jpg);
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: 300px 300px;
+}
+#tinku3 h2{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin: 70px;
+    font-family: cursive;
+    text-shadow: 2px 2px 4px black;
+}
+#tinku3 h3{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    margin-top: -60px;
+    font-family: cursive;
+    text-shadow: 2px 2px 4px black;
+}
+#tinku3 h4{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin-top: -15px;
+    font-family: cursive;
+    text-shadow: 2px 2px 4px black;
+}
+#tinku3 input{
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    margin-top: -10px;
+    background-color: red;
+    border-radius: 20px;
+    color: white;
+}
+#form{
+    height: 500px;
+    width: 250px;
+    margin-left: 350px;
+    margin-top: -80px;
+}
+#form table td{
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+#wel{
+    height: auto;
+    width: 370px;
+    margin-top: -520px;
+    margin-left: 780px;
+}
+#head1{
+    font-family: cursive;
+    
+}
+#p1{
+    font-size: 12px;
+    font-family: cursive;
+    margin-left: 120px;
+    margin-top: -110px;
+    text-align: justify; 
+}
+#head2{
+    font-family: cursive;
+    margin-top: 60px;
+}
+#p2{
+    font-size: 12px;
+    text-align: justify;
+    margin-left: 120px;
+    margin-top: -110px;
+    font-family: cursive;
+}

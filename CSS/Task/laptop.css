@@ -1,0 +1,187 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: pink;
+    font-family: cursive;
+}
+nav{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    background-color: pink;
+    overflow: hidden;
+}
+nav a{
+    color: black;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 5px 10px;
+    text-decoration: none;
+    text-shadow: 5px 5px 5px gray;
+}
+nav a:hover{
+    background-color: palevioletred;
+    color: white;
+    box-shadow: 5px 5px 5px rgb(241, 88, 139);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#top{
+    background-color: rgb(255, 96, 149);
+    width: 97%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    height: 400px;
+    margin-top: 40px;
+    box-shadow: 10px 10px 10px palevioletred;
+    border-radius: 20px;
+}
+#top img{
+    margin-top: 50px;
+    margin-left: 900px;
+
+}
+#top h1{
+    margin-top: -300px;
+    margin-left: 300px;
+}
+#top h2{
+    margin-left: 90px;
+}
+#top h3{
+    margin-left: 130px;
+    margin-top: -20px;
+}
+#top h3 strong{
+    color: white;
+    font-size: 25px;
+}
+#top p{
+    margin-left: 130px;
+    margin-right: 650px;
+    text-align: justify;
+}
+#border{
+    border-width: 15px;
+    color: rgb(99, 99, 99);
+    border: solid;
+    height: 300px;
+    width: 450px;
+    margin-left: 950px;
+    margin-top: -270px;
+}
+#cell1{
+    height: 600px;
+    width: 350px;
+    background-color: rgb(255, 96, 149);
+    border-radius: 20px;
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 80px;
+    box-shadow: 10px 10px 10px rgb(195, 48, 97);
+}
+#cell1:hover{
+    background-color: rgb(255, 65, 128);
+    height: 620px;
+    width: 370px;
+}
+#cell1 img{
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    margin-top: 40px;
+}
+
+#cell1 h2{
+    text-align: center;
+    margin-top: 45px;
+}
+#cell1 p{
+    font-size: 17px;
+    text-align: center;
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#cell2{
+    height: 600px;
+    width: 350px;
+    background-color: rgb(255, 96, 149);
+    border-radius: 20px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 10px 10px 10px rgb(195, 48, 97);
+}
+#cell2 img{
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    margin-top: 40px;
+}
+
+#cell2 h2{
+    text-align: center;
+    margin-top: 45px;
+}
+#cell2 p{
+    font-size: 17px;
+    text-align: center;
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#cell2:hover{
+    background-color: rgb(255, 65, 128);
+    height: 620px;
+    width: 370px;
+}
+
+#cell3{
+    height: 600px;
+    width: 350px;
+    background-color: rgb(255, 96, 149);
+    border-radius: 20px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 10px 10px 10px rgb(195, 48, 97);
+}
+#cell3 img{
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    margin-top: 40px;
+}
+
+#cell3 h2{
+    text-align: center;
+    margin-top: 45px;
+}
+#cell3 p{
+    font-size: 17px;
+    text-align: center;
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#cell3:hover{
+    background-color: rgb(255, 65, 128);
+    height: 620px;
+    width: 370px;
+}
+
+#find{
+    height: 120px;
+    margin-top: 20px;
+    width: 1500px;
+    padding: 20px;
+    background-color:rgb(255, 65, 128) ;
+}
+#find hr{
+    margin-left: 180px;
+    margin-right: 180px;
+}

@@ -1,0 +1,78 @@
+body{
+    height: 730px;
+    width: 1530px;
+    background-image: url(WhatsApp\ Image\ 2024-03-15\ at\ 17.01.45_b8a199f5.jpg);
+    background-repeat: no-repeat;
+    padding: 60px;
+    background-size: 1530px 730px;
+}
+#home{
+    height: auto;
+    width: 89%;
+}
+#class{
+    height: 600px;
+    width: 100%;
+    background-image: url(nature2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 600px;
+}
+#class h1{
+    font-size: 50px;
+    color: white;
+    font-style: italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 20px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+nav{
+    overflow: hidden;
+    margin-left: 200px;
+    margin-top: -60px;
+    
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 15px;
+}
+#nav2{
+    overflow: hidden;
+}
+#nav2 a{
+    float: right;
+    margin-top: 35px;
+    margin-right: 20px;
+    padding: 10px 15px;
+}
+#class h2{
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 60px;
+    color: white;
+    text-shadow: 4px 4px 5px black;
+}
+#class h3{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+    color: white;
+    text-shadow: 4px 4px 10px black;
+}
+#ul1{
+    overflow: auto;
+}
+.li1{
+    list-style-type: none;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 10px 1px;
+    margin-left: 90px;
+
+}
